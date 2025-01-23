@@ -1,0 +1,6 @@
+module:JBubbleBobble2
+BubbleBobble
+BubbleBobble.controller
+BubbleBobble.designPattern
+BubbleBobble.model
+BubbleBobble.view
